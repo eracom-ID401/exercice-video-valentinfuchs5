@@ -37,5 +37,12 @@ body {
   margin: 0 0 1rem 0;
   padding: 0;
   justify-content: space-evenly;
+  color: white;
+  text-decoration: none;
+  background-color: black;
 }
 
+.passouligné {
+  text-decoration: none;
+  color: white;
+}
